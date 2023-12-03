@@ -169,6 +169,12 @@ nav {
 }
 
 /* Contact CSS */
+
+#map {
+    margin-right: 1rem;
+    justify-content: center;
+}
+
 .contact {
     width: 50%;
 }
